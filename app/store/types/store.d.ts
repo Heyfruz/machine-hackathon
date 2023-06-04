@@ -1,0 +1,3 @@
+type AuthState = {
+  isAuthenticated: boolean;
+};
